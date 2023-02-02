@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics and Applications, Hassan II University Casablanca, 2015
+* M.Sc. in Physics and New Technologies, Hassan II University Casablanca, 2017
+* Ph.D in Materials Science and Engineering, Friedrich-Alexander-Universität Erlangen-Nürnberg, 2023
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jul 2022 - Present: Research Associate
+  * Universität des Saarlandes
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jul 2021 – Dec 2022 : Guest Scientist
+  * Max-Planck-Institut für Eisenforschung GmbH
+
+* Apr 2018 – Apr 2022: Research Associate
+  * Friedrich-Alexander-Universität Erlangen-Nürnberg
+
+* Feb 2017 – Jun 2017: Intern
+  * Hassan II university
   
 Skills
 ======
